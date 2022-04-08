@@ -1,0 +1,8 @@
+.Content {
+    display: flex;
+    flex-flow: column;
+    align-content: space-around;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+}
